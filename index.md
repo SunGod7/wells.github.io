@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Project 1: FAST LIFE APP](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/lifestyle-change-g8670d4baa_1920.jpg?raw=true"/>
 
 ---
 [Project 2: UNI-VERZE](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/music-gc7ab234aa_1920.jpg?raw=true"/>
 
 ---
 [Project 3: BOOK STORE](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/books-gacf89f017_1920.jpg?raw=true"/>
 
 ---
 
