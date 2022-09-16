@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Project 1: FAST LIFE APP](/sample_page)
 <img src="images/lifestyle-change-g8670d4baa_1920.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Project links and description
 
 - [Project 1: FAST LIFE APP](https://fast-4-life.herokuapp.com/)
 * A wellness application that allows user to choose fasting and workout plans and also create their own
